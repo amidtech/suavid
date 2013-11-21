@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Suavid]]></title>
+  <link href="http://amidtech.github.io//github/atom.xml" rel="self"/>
+  <link href="http://amidtech.github.io//github/"/>
+  <updated>2013-11-21T21:06:14+08:00</updated>
+  <id>http://amidtech.github.io//github/</id>
+  <author>
+    <name><![CDATA[Suavid Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

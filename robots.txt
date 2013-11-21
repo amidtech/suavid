@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://amidtech.github.io//github/sitemap.xml 
