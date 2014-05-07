@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Suavid]]></title>
+  <title><![CDATA[Suavid App | Record Aesthetic Movie or Video with Ease]]></title>
   <link href="http://amidtech.github.io//github/atom.xml" rel="self"/>
   <link href="http://amidtech.github.io//github/"/>
-  <updated>2014-04-28T20:29:52+08:00</updated>
+  <updated>2014-05-07T15:42:33+08:00</updated>
   <id>http://amidtech.github.io//github/</id>
   <author>
     <name><![CDATA[Suavid Team]]></name>
