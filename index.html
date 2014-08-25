@@ -7,6 +7,8 @@
 	<title>Suavid</title>
 	<script type="text/javascript">
 	var language = navigator.browserLanguage?navigator.browserLanguage:navigator.language;
+	language = language.toLowerCase();
+	
 	if (language.indexOf('en') > -1) document.location.href = 'en.html';
 	else if (language.indexOf('cn') > -1) document.location.href = 'cn.html';
 	else if (language.indexOf('tw') > -1) document.location.href = 'tw.html';
